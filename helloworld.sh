@@ -1,3 +1,4 @@
 #! /bin/bash
 echo Hello World!
-echo edureka
+echo Hi from edureka!
+echo Your instructor is Vardhan!
